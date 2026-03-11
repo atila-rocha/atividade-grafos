@@ -10,6 +10,12 @@ O objetivo desse projeto é avaliar se o dataset de relações das páginas do w
 - Distribuição de graus na escala linear e log-log
 - identificação de outliers
 
+## Sobre o dataset
+O dataset utilizado neste trabalho ´e o MUSAE Crocodile, disponibilizado pelo Stanford
+Network Analysis Project (SNAP). Essa rede representa p´aginas da Wikipedia relacionadas entre si por hyperlinks.
+Cada v´ertice corresponde a uma p´agina da Wikipedia e cada aresta representa um
+hyperlink entre duas p´aginas.
+
 ## Pré-requisitos
 
 É essencial que você tenha as seguintes linguagens/feramentas na sua máquina:
